@@ -1,7 +1,7 @@
-life-notes
-==========
-
-Ice is for injuries, heat is for muscles [1]
+Life notes
+=
 
 
-[1]: http://saveyourself.ca/articles/ice-heat-confusion.php
+#### Health
+
+Ice is for injuries, heat is for muscles<sup>[link](http://saveyourself.ca/articles/ice-heat-confusion.php)</sup>
